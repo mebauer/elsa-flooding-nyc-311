@@ -15,6 +15,6 @@ how to download the data:
 
 screenshot below:
 
-![download csv](download_data.png)
+![download csv](download.png)
 link to 311 data on nyc open data: https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9 
 
